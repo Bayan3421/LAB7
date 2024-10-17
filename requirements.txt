@@ -1,0 +1,5 @@
+pandas
+pyreadstat
+pyreadr
+matplotlib
+streamlit
