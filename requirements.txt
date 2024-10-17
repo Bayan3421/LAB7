@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 pandas
 pyreadstat
 pyreadr
 matplotlib
 streamlit
+=======
+pandas
+pyreadstat
+pyreadr
+matplotlib
+streamlit
+>>>>>>> 08447eefe5f97eaa9845a906fec63f0853bec292
